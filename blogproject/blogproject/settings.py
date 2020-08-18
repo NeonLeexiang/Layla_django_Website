@@ -26,7 +26,7 @@ SECRET_KEY = '^utm(xduf898$grznljt295(5m0)6+-(%5qqwb-*kx3%^z$r15'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['*', '.neonandlayla.com']
 # ALLOWED_HOSTS = ['127.0.0.1', 'localhost', '0.0.0.0', '47.107.75.224']
 
 
